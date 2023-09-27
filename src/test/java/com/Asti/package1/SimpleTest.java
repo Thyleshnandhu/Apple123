@@ -6,6 +6,7 @@ public class SimpleTest {
 	@Test
 	public void method1() {
 		System.out.println("Simple test");
+		System.out.println("---Simple test2--");
 	}
 
 }
